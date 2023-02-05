@@ -1,0 +1,6 @@
+.firstpage{
+    background-image:url(./assets/futuristic-bg.png);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
