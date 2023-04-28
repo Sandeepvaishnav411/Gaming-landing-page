@@ -1,6 +1,6 @@
 # Full Stack JavaScript
 
-## Beats landing page
+## Gaming landing Page
 
 ## [Click here](https://gaminglandingpagesa.netlify.app/)
 
